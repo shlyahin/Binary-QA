@@ -1,12 +1,9 @@
-Учебный проект в рамках второй части курса "Нейросетевые технологии"(Stepik - DLSchool,МФТИ).
+РЈС‡РµР±РЅС‹Р№ РїСЂРѕРµРєС‚ РІ СЂР°РјРєР°С… РІС‚РѕСЂРѕР№ С‡Р°СЃС‚Рё РєСѓСЂСЃР° "РќРµР№СЂРѕСЃРµС‚РµРІС‹Рµ С‚РµС…РЅРѕР»РѕРіРёРё"(Stepik - DLSchool,РњР¤РўР).
 
-Решалась задача бинарных ответов на вопрос при наличии референса на тематический абзац из Википедии. Использовался англоязычный датасет BoolQ.
+Р РµС€Р°Р»Р°СЃСЊ Р·Р°РґР°С‡Р° Р±РёРЅР°СЂРЅС‹С… РѕС‚РІРµС‚РѕРІ РЅР° РІРѕРїСЂРѕСЃ РїСЂРё РЅР°Р»РёС‡РёРё СЂРµС„РµСЂРµРЅСЃР° РЅР° С‚РµРјР°С‚РёС‡РµСЃРєРёР№ Р°Р±Р·Р°С† РёР· Р’РёРєРёРїРµРґРёРё. РСЃРїРѕР»СЊР·РѕРІР°Р»СЃСЏ Р°РЅРіР»РѕСЏР·С‹С‡РЅС‹Р№ РґР°С‚Р°СЃРµС‚ BoolQ.
+
 
 
 Educational project within the second part of the course "Neural Network Technologies" (Stepik - DLSchool, MIPT).
 
-
-
-The problem of binary QA was solved in the presence of a reference to a thematic paragraph from
-
-Wikipedia. The English-language BoolQ dataset was used.
+The problem of binary QA was solved in the presence of a reference to a thematic paragraph from Wikipedia. The English-language BoolQ dataset was used.
